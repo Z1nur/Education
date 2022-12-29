@@ -1,7 +1,12 @@
 package Lesson;
 public class HomeWork {
     public static void main(String[] args) {
-        System.out.println("Решение первой задачи!");
+        int i = 0;
+        for (i = 0; i < 10; i++) {
+            System.out.println("Решение первой задачи!");
+        }
+
+
     }
 }
 
